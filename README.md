@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Marx Text Files Summarizer
 
 A comprehensive tool for generating accurate descriptive summaries (~50 words) for Marx text files, with intelligent content type detection and scholarly analysis.
@@ -284,3 +285,6 @@ For questions, issues, or contributions, please refer to the project documentati
 **Date**: 2025-06-17  
 **Total Files Processed**: 3,371  
 **Output Location**: `~/Downloads/marx_summaries/` 
+=======
+## This is a repository for my summer RA job
+>>>>>>> 3aa96b5659a6e5430dfa8f6b01746c338240c5b0
