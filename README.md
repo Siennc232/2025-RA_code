@@ -9,7 +9,7 @@ This project processes a large collection of Marx's texts including poetry, phil
 
 ## Features
 
-### 🎯 **Intelligent Content Type Detection**
+### **Content Type**
 - **Economics**: Capital, commodities, value theory, political economy
 - **Philosophy**: Hegelian dialectics, materialism, critique of religion
 - **Poetry**: Early verses, ballads, dedications
@@ -17,19 +17,12 @@ This project processes a large collection of Marx's texts including poetry, phil
 - **Correspondence**: Letters, personal communications
 - **Unknown**: Fallback classification for mixed content
 
-### 📊 **Advanced Analysis**
+### **Advanced Analysis**
 - Key concept extraction (Marx, Engels, Capital, Revolution, etc.)
 - Content length analysis
 - Writing style identification
 - Historical context preservation
-
-### 🔧 **Technical Capabilities**
-- **OpenAI API Integration**: High-quality AI-generated summaries
-- **Fallback System**: Basic text analysis when API unavailable
-- **Batch Processing**: Handle thousands of files efficiently
-- **Error Handling**: Robust processing with detailed logging
-- **Structured Output**: JSON and individual text files
-
+- 
 ## Installation
 
 ### Prerequisites
