@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Marx Text Files Summarizer
 
 A comprehensive tool for generating accurate descriptive summaries (~50 words) for Marx text files, with intelligent content type detection and scholarly analysis.
